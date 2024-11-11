@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "type": "Single Room",
+        "price": "Price: 1000",
+        "description": "This is a single room with a view of the beach or mountains, depending on the location.",
+        "imageUrl": "https://images.unsplash.com/photo-1568495248636-64…xMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "type": "Double Room",
+        "price": "Price: 1500",
+        "description": "This is a double room with modern amenities and a balcony overlooking the ocean.",
+        "imageUrl": "https://example.com/double_room.jpg"
+    },
+    {
+        "id": 3,
+        "type": "Family Room",
+        "price": "Price: 2000",
+        "description": "This is a family room with a large living area and a separate dining area. The room has a balcony overlooking the ocean",
+        "imageUrl": "https://example.com/family_room.jpg"
+    },
+    {
+        "id": 4,
+        "type": "King Room",
+        "price": "Price: 2500",
+        "description": "This is a king room comprising of a large living area, a separate dining area, and a large balcony overlooking the ocean.",
+        "imageUrl": "https://example.com/king_room.jpg"
+    },
+    {
+        "id": 5,
+        "type": "Twin Room",
+        "price": "Price: 3000",
+        "description": "This is a twin room offering numerous amenities and a balcony overlooking the city",
+        "imageUrl": "https://example.com/twin_room.jpg"
+    },
+    {
+        "id": 6,
+        "type": "Studio",
+        "price": "Price: 3500",
+        "description": "This is a studio room with modern amenities and a balcony overlooking the ocean.",
+        "imageUrl": "https://example.com/studio.jpg"
+    }
+]
